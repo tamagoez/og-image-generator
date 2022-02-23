@@ -3,7 +3,7 @@
   "regions": ["all"],
   "functions": {
     "api/**": {
-      "memory": 1028
+      "memory": 1024
     }
   },
   "rewrites": [
